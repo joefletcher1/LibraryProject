@@ -1,3 +1,7 @@
+package main;
+
+import main.Item;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 

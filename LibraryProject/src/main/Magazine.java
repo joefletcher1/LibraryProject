@@ -1,5 +1,8 @@
+package main;
 
-public class Magazines extends Item {
+import main.Item;
+
+public class Magazine extends Item {
 	
 	private String Publisher;
 

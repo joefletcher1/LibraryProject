@@ -1,5 +1,9 @@
+package main;
 
-public class LibraryAdmin implements CanRemove{
+import main.CanRemove;
+import main.Item;
+
+public class LibraryAdmin implements CanRemove {
 
 	@Override
 	public void checkOutItem(Item item) {

@@ -1,5 +1,6 @@
+package main;
 
-public class Book extends Item  {
+public class Book extends Item {
 	
 	private String Author;
 

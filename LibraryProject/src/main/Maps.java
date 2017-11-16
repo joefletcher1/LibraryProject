@@ -1,3 +1,6 @@
+package main;
+
+import main.Item;
 
 public class Maps extends Item {
 	

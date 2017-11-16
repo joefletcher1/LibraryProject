@@ -1,3 +1,7 @@
+package main;
+
+import main.CanRemove;
+import main.Item;
 
 public class User implements CanRemove {
 

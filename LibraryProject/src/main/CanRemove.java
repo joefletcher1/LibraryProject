@@ -1,9 +1,6 @@
+package main;
 
 public interface CanRemove {
-	
-	/*Check out item
-	• Check in item
-	 */
 	
 	public void checkOutItem(Item item);
 	

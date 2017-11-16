@@ -1,3 +1,5 @@
+package main;
+
 import java.util.Calendar;
 
 public abstract class Item  {
@@ -5,6 +7,8 @@ public abstract class Item  {
 	private int id;
 	private Calendar date;
 	private String title;
+
+	static final int minIDValue = 1000;
 	
 	public int getId() {
 		return id;
